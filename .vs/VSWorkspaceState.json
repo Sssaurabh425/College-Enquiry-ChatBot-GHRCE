@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\account",
+    "\\account\\static",
+    "\\chatbot",
+    "\\chatbot\\templates",
+    "\\persistent"
+  ],
+  "SelectedNode": "\\persistent\\urls.py",
+  "PreviewInSolutionExplorer": false
+}
