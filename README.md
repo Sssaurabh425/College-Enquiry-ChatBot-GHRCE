@@ -16,4 +16,5 @@ automaticallly new django project will create in a location use in a cmd
 Step 4:- Run the project
 go inside the project using cd command
 in cmd and type :- python manage.py runserver
+
 open the project  in browser using link:-  http://127.0.0.1:8000/
